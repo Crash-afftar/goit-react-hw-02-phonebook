@@ -7,6 +7,12 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  padding-left: 50px;
+  padding-right: 50px;
+  background-color: rgb(184, 220, 208);
+background-color: rgb(131, 166, 155);
+background-color: rgb(20, 58, 46);
+
 }
 
 code {
